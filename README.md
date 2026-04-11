@@ -1,2 +1,41 @@
-# all-restaurants-in-corpus-christi-texas-us-sample-336505
-Free BeamStation sample for All Restaurants in Corpus Christi, Texas, US (957 records in the full dataset)
+# All Restaurants in Corpus Christi, Texas, US
+
+> Free BeamStation sample export with 95 rows and masked direct-contact fields.
+
+## Snapshot
+
+| Field | Value |
+|---|---|
+| Dataset ID | `336505` |
+| Location | Corpus Christi |
+| Category | Restaurants |
+| Full dataset size | 957 records |
+| Free sample size | 95 records (9.93%) |
+| Last export | 2026-04-07T11:05:28.944004+00:00 |
+| Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-corpus-christi-texas-us-sample-336505/releases/download/sample-latest/beamstation_336505_restaurants-us-tx_SAMPLE_DIST.csv) |
+
+## What is in this sample
+
+This sample is generated directly from the BeamStation export pipeline and combines the `complete` and `insights` export profiles into one evaluation CSV.
+
+Included signals:
+- business profile and location fields
+- ratings, review counts, and review activity
+- Beam Score and competitive metrics
+- sentiment and percentile features
+- social profile signals
+- masked email and masked phone fields
+
+## Get the full dataset
+
+The full commercial dataset is available in the BeamStation catalog:
+
+[https://beamstation.com/datasets](https://beamstation.com/datasets)
+
+Search for dataset ID `336505` on BeamStation if you want the exact commercial listing.
+
+## Notes
+
+- This repository only contains a free sample.
+- Contact data that drives the commercial value is partially masked.
+- The source sample file is mirrored from BeamStation B2 storage and refreshed from CentralDB exports.
