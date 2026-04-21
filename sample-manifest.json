@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9d76ab5d-c53d-4903-aff1-d1aa0129f267",
+  "export_job_id": "6ec64f21-79fc-4ce8-8e39-872b734fb333",
   "id_short": 336505,
-  "published_at": "2026-04-17T19:19:25Z",
+  "published_at": "2026-04-21T19:18:21Z",
   "repo_name": "all-restaurants-in-corpus-christi-texas-us-sample-336505",
   "sample_asset_name": "beamstation_336505_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/336505/beamstation_336505_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 92,
-  "sample_sha256": "3ec92a786ae6d05cc5af850f2d30f110f2eb6637e208992e3ebf80936b9baaeb",
-  "sample_size_bytes": 362957,
-  "total_records": 929
+  "sample_records": 55,
+  "sample_sha256": "1cf2c2b05271f8c99641bbe5760639a53964d3bdb5dd3b1a9576bf2a63e08b9c",
+  "sample_size_bytes": 224894,
+  "total_records": 552
 }
